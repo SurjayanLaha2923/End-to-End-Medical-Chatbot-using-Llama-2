@@ -1,4 +1,4 @@
-ctransformer==0.2.5# quantized model(run on cpu)
+ctransformers==0.2.5
 sentence-transformer==2.2.2
 pinecone-client
 langchain==0.0.225
